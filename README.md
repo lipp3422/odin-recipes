@@ -19,3 +19,5 @@ The project is a recipe website. As the project goes on I will update this READM
 
 <!-- added description of lasagna recipe, added ingredients header, added unordered list of ingredients, added directions header -->
 
+<!-- added ordered list of directions -->
+
