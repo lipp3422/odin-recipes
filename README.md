@@ -17,3 +17,5 @@ The project is a recipe website. As the project goes on I will update this READM
 
 <!-- created lasagna.html file, created html boilerplate inside, added in title, added in link to homepage (index.html), added in picture of lasagna in images folder, as well as lasagna.html with alt description of photo as well as height and width of photo to fit webpage -->
 
+<!-- added description of lasagna recipe, added ingredients header, added unordered list of ingredients, added directions header -->
+
