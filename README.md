@@ -21,3 +21,5 @@ The project is a recipe website. As the project goes on I will update this READM
 
 <!-- added ordered list of directions -->
 
+<!-- added chicken-fried-steak.html, added html boilerplate, added title, added link to index.html, added chicken fried steak header, edited index.html with link to chicken-fried-steak.html -->
+
